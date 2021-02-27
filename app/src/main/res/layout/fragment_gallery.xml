@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/newdesimage"
+    tools:context=".ui.gallery.GalleryFragment">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="290dp"
+            android:textAlignment="center"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit ="marquee_forever"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:scrollHorizontally="true"
+            android:textColor="@color/white"
+            android:fontFamily="@font/montserrat_bold"
+            android:textSize="16sp"
+            android:scrollbars="vertical"
+            android:layout_marginBottom="10dp"
+            android:text="BIG BANG has a wide assortment of high-quality CBD, We carry a wide-variety of many different strains of dry cannabis flower and BIG BANG has an endless amount of strains to help ease all medical conditions,such a anxiety,stress,ADD/ADHD,depression,loss of appetite muscular dystrophy,hypertension,insomnia,migraines the list goes on. Even better,our marijuana dispensary offers the lowest prices online,guarenteed. \nAll of our growers follow the strictest guidelines. No pesticides,long curing times and all strains are tested in house to ensure that you receive he highest quality cannabis from our marijuana dispensary. Ultimately, We love high grade cannbis and all of it's derivatives and we enjoy sharing it with our customers and friends that are in need."
+            android:gravity="center_horizontal" />
+
+
+    /**/
+</LinearLayout>
