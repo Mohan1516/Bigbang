@@ -44,10 +44,10 @@ public class HomeFragment extends Fragment {
 
     GridView gridView;
     String[] ProductNames = {"Product 1","Product 2","Product 3","Product 4","Product 5","Product 6","Product 7","Product 8","Product 9","Product 10"};
-    int[] ProductImages = {R.drawable.product1,R.drawable.product2,R.drawable.product3,R.drawable.product4,R.drawable.product5,R.drawable.product6,
-            R.drawable.product7,R.drawable.product8,R.drawable.product9,R.drawable.product10,R.drawable.new_product11,R.drawable.new_product12,
+    int[] ProductImages = {R.drawable.new_product11,R.drawable.new_product12,
             R.drawable.new_product13,R.drawable.new_product14,R.drawable.new_product15,R.drawable.new_product16,R.drawable.new_product17,
-            R.drawable.new_product18,R.drawable.new_product19,R.drawable.new_product20};
+            R.drawable.new_product18,R.drawable.new_product19,R.drawable.new_product20,R.drawable.product1,R.drawable.product2,R.drawable.product3,R.drawable.product4,R.drawable.product5,R.drawable.product6,
+            R.drawable.product7,R.drawable.product8,R.drawable.product9,R.drawable.product10};
     Integer [] images = {R.drawable.slider1,R.drawable.slider2,R.drawable.slider3,R.drawable.slider4,R.drawable.slider5,R.drawable.slider6,
             R.drawable.slider7,R.drawable.slider8,R.drawable.slider9,R.drawable.slider10,R.drawable.slider11,R.drawable.slider12,R.drawable.slider13,
             R.drawable.slider14,R.drawable.slider15,R.drawable.slider16,R.drawable.slider17,R.drawable.slider18,R.drawable.slider19,R.drawable.slider20,

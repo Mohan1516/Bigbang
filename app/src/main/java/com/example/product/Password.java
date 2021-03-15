@@ -34,7 +34,7 @@ public class Password extends AppCompatActivity {
         submitButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (passwordtxt.getText().toString().equals("admin")){
+                if (passwordtxt.getText().toString().equals("flowergirl")){
 
 //                    sharedpreferences = getApplicationContext().getSharedPreferences(SharedPref.MY_PREFERENCE, Context.MODE_PRIVATE);
 //                    if (sharedpreferences.contains(SharedPref.USERNAME)){

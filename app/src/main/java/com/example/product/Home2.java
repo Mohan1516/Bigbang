@@ -159,7 +159,7 @@ public class Home2 extends AppCompatActivity {
     }
     protected void sendEmail() {
         Log.i("Send email", "");
-        String[] TO = {""};
+        String[] TO = {"Big997522@gmail.com"};
 //        String[] CC = {""};
         Intent emailIntent = new Intent(Intent.ACTION_SEND);
 
