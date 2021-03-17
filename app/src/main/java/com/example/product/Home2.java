@@ -117,7 +117,7 @@ public class Home2 extends AppCompatActivity {
 //                        Toast.makeText(context, "Whatsapp not installed in you mobile", Toast.LENGTH_SHORT).show();
 //                    }
                 //
-                sendEmail();
+//                sendEmail();
 
 
                 return false;
