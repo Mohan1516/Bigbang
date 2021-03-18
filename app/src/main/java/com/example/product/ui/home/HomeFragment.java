@@ -46,7 +46,12 @@ public class HomeFragment extends Fragment {
     String[] ProductNames = {"Product 1","Product 2","Product 3","Product 4","Product 5","Product 6","Product 7","Product 8","Product 9","Product 10"};
     int[] ProductImages = {R.drawable.new_product11,R.drawable.new_product12,
             R.drawable.new_product13,R.drawable.new_product14,R.drawable.new_product15,R.drawable.new_product16,R.drawable.new_product17,
-            R.drawable.new_product18,R.drawable.new_product19,R.drawable.new_product20,R.drawable.product1,R.drawable.product2,R.drawable.product3,R.drawable.product4,R.drawable.product5,R.drawable.product6,
+            R.drawable.new_product18,R.drawable.new_product19,R.drawable.new_product20,R.drawable.new_product21,R.drawable.new_product_22,
+            R.drawable.new_product_23,R.drawable.new_product_24,R.drawable.new_product_25,R.drawable.new_product_26,R.drawable.new_product_27,
+            R.drawable.new_product_28,R.drawable.new_product_29,R.drawable.new_product_30,R.drawable.new_product_31,R.drawable.new_product_32,
+            R.drawable.new_product_33,R.drawable.new_product_34,R.drawable.new_product_35,R.drawable.new_product_36,R.drawable.new_product_37,
+            R.drawable.new_product_38,R.drawable.new_product_39,R.drawable.new_product_40,R.drawable.new_product_41,
+            R.drawable.product1,R.drawable.product2,R.drawable.product3,R.drawable.product4,R.drawable.product5,R.drawable.product6,
             R.drawable.product7,R.drawable.product8,R.drawable.product9,R.drawable.product10};
     Integer [] images = {R.drawable.slider1,R.drawable.slider2,R.drawable.slider3,R.drawable.slider4,R.drawable.slider5,R.drawable.slider6,
             R.drawable.slider7,R.drawable.slider8,R.drawable.slider9,R.drawable.slider10,R.drawable.slider11,R.drawable.slider12,R.drawable.slider13,
